@@ -1,0 +1,5 @@
+name: Post welcome comment
+on:
+Pull request:
+Permissions:
+Pull-requests:write
